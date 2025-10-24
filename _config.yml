@@ -18,7 +18,7 @@ title: "Zack" # the main title
 
 tagline: "Penetration Tester | InfoSec" # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: - # used by seo meta and the atom feed
   My journey and projects in Data Secutity & InfoSec .
 
 # Fill in the protocol & hostname for your site.
