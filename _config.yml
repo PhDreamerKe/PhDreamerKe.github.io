@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Isaac Mburu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/bio-photo.jpg"
   bio    : "Diving into digital world."
   links:
     - label: "Website"
